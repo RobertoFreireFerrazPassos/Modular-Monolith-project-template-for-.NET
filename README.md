@@ -1,5 +1,7 @@
 ﻿# Modular Monolith Template
 
+This repo is from [anton-martyniuk](https://www.linkedin.com/in/anton-martyniuk/)
+
 ## Project Description
 
 This project is a modern, well-structured template for building maintainable Modular Monolith applications in .NET. It demonstrates how to organize code into separate modules that are loosely coupled yet deployed as a single application. The template shows proper domain modeling, clean separation of concerns, and smart handling of cross-module communication - all without overwhelming complexity. For a comprehensive introduction, see [Building a Modular Monolith with Vertical Slice Architecture in .NET](https://antondevtips.com/blog/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet).
